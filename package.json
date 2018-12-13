@@ -1,0 +1,8 @@
+{
+    "name": "node-sleep",
+    "version": "1.0.0",
+    "description": "Module for sleep processing.",
+    "main": "index.js",
+    "author": "ponko2bunbun",
+    "license": "ISC"
+}
